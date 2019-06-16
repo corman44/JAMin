@@ -4,13 +4,11 @@
 
 Using the following SW components to deliver my page
 
-'''markdown
 - netlify
 - React
 .
 .
 .
-'''
 
 ### Page
 
