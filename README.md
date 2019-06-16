@@ -1,23 +1,17 @@
 ## Welcome to Cory's Attempt at a JAM Stack
 
-### Markdown
+### Setup
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Using the following SW components to deliver my page
 
-```markdown
-Syntax highlighted code block
+'''markdown
+- netlify
+- React
+.
+.
+.
+'''
 
-# Header 1
-## Header 2
-### Header 3
+### Page
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+[https://corys-jamstack.netlify.com/html/reacttestpage]([https://corys-jamstack.netlify.com/html/reacttestpage])
