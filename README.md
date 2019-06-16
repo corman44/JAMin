@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Cory's Attempt at a JAM Stack
 
 You can use the [editor on GitHub](https://github.com/corman44/JAMin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
