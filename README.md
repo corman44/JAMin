@@ -6,9 +6,7 @@ Using the following SW components to deliver my page
 
 - netlify
 - React
-.
-.
-.
+- ..
 
 ### Page
 
