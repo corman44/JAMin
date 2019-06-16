@@ -4,7 +4,7 @@
 
 Using the following SW components to deliver my page
 
-- netlify
+- Netlify
 - React
 - ..
 
