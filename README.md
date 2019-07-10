@@ -10,4 +10,4 @@ Using the following SW components to deliver my page
 
 ### Page
 
-[https://corys-jamstack.netlify.com/html/reacttestpage](https://corys-jamstack.netlify.com/html/reacttestpage)
+[https://corys-jamstack.netlify.com/](https://corys-jamstack.netlify.com/)
