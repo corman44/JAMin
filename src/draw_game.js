@@ -10,3 +10,4 @@ ctx.moveTo(0,300);
 ctx.lineTo(900,300);
 ctx.moveTo(600,0);
 ctx.lineTo(600,900);
+ctx.stroke();
