@@ -11,6 +11,6 @@ ctx.stroke();
 ctx.moveTo(0,300);
 ctx.lineTo(900,300);
 ctx.stroke();
-ctx.moveTo(600,0);
-ctx.lineTo(600,900);
+ctx.moveTo(0,600);
+ctx.lineTo(900,600);
 ctx.stroke();
