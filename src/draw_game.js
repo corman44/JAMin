@@ -2,8 +2,8 @@
 var c = document.getElementById("ttt_board");
 var ctx = c.getContext("2d");
 ctx.beginPath();
-ctx.moveTo(300,0);
-ctx.lineTo(300,900);
+ctx.moveTo(0,0);
+ctx.lineTo(150,150);
 //ctx.moveTo(600,0);
 //ctx.lineTo(600,900);
 //ctx.moveTo(0,300);
